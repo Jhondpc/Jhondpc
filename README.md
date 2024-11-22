@@ -19,23 +19,17 @@
   </ul>
 </div>
 
+- 🔭 Actualmente estoy trabajando en React, Tailwind, Spring Boot, y MySQL.
 
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🌱 Estoy aprendiendo a diseñar aplicaciones escalables y multiplataforma utilizando tecnologías modernas.
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- ☁️ Tengo un gran interés en la computación en la nube, por lo que estoy explorando AWS y otras plataformas de nube.
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📝 Regularmente escribo artículos y comparto proyectos en mi GitHub.
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 💬 Pregúntame sobre React, Spring Boot, JavaScript y MySQL.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
-
+- 📫 No dudes en contactarme en pardochurasijhon@gmail.com.
 
 
 <!--- stats & Trophy (start) -->
