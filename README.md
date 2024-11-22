@@ -9,9 +9,6 @@
   </ul>
 </div>
 
-
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -32,7 +29,7 @@
 - 📫 No dudes en contactarme en pardochurasijhon@gmail.com.
 
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conecta conmigo:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
@@ -42,7 +39,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Lenguajes y tecnologías:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
