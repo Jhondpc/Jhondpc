@@ -44,7 +44,7 @@
   
   <!-- Portafolio -->
   <a href="https://portafolio-sigma-fawn.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
+    <img src="https://img.shields.io/badge/Portafolio-181717?style=for-the-badge&logo=GitHub-Pages&logoColor=white" alt="Portafolio">
   </a>
   
 </div>
