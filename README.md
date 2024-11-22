@@ -51,7 +51,7 @@
 <h3 align="center">Lenguajes y tecnologías:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,spring,js,html,css,tailwind,java,mysql,py,aws,sqlite,firebase,github,linux,postman,vscode,bootstrap,flask,idea,notion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=react,spring,js,html,css,tailwind,java,mysql,py,aws,firebase,github,linux,postman,sqlite,vscode,bootstrap,flask,idea,notion&perline=10" />
   </a>
 </p>
 
