@@ -26,8 +26,6 @@
 
 - 💬 Pregúntame sobre React, Spring Boot, JavaScript y MySQL.
 
-- 📫 No dudes en contactarme en pardochurasijhon@gmail.com.
-
 
 <h3 align="center">Conecta conmigo:</h3>
 <div align="center">
