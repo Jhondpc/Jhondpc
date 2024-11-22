@@ -43,7 +43,7 @@
   </a>
   
   <!-- Portafolio -->
-  <a href="https://tu-portafolio-url.com" target="_blank">
+  <a href="https://portafolio-sigma-fawn.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portafolio">
   </a>
   
