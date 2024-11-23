@@ -54,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=react,spring,js,html,css,tailwind,java,mysql,py,aws,firebase,github,linux,postman,sqlite,vscode,bootstrap,flask,idea,notion&perline=10" />
   </a>
 </p>
-
+<!--
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhondpc&theme=react&layout=compact" />
 </p>
